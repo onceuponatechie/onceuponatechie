@@ -56,7 +56,7 @@ If you're a founder who needs a landing page, a small business drowning in manua
 
 ## GitHub Stats 📊
 
-![Essy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=onceuponatechie&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e76f3c&icon_color=fef08a&text_color=ffffff)
+[![GitHub Streak](https://streak-stats.demolab.com?user=onceuponatechie&theme=dark&hide_border=true&background=0D1117&ring=e76f3c&fire=fef08a&currStreakLabel=ffffff)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onceuponatechie&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e76f3c&icon_color=fef08a&text_color=ffffff)
 
